@@ -3,6 +3,8 @@
 ## Overview
 The **Cryptocurrency Visualizer** is a powerful tool for monitoring, analyzing, and visualizing cryptocurrency data in real-time. This interactive dashboard provides a range of features for crypto enthusiasts, traders, and analysts, including technical indicators, price alerts, and a crypto screener. Built with Python, this tool leverages the Binance API (via `ccxt`) and modern visualization libraries to deliver an engaging user experience.
 
+Author: Oltion F
+
 ## Screenshots
 
 ### Dashboard Overview
