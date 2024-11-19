@@ -9,6 +9,7 @@ The **Cryptocurrency Visualizer** is a powerful tool for monitoring, analyzing, 
 
 ### Dashboard Overview
 ![Dashboard Screenshot](crypto-visualizer-1.png)
+![Dashboard Screenshot](crypto-visualizer-2.png)
 
 ## Features
 ### **Real-Time Data Monitoring**
